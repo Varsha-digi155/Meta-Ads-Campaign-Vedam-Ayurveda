@@ -24,12 +24,11 @@ The campaign promotes the **Vedam Ayurveda Dosha Skin Guide** through Facebook a
 
 # 🛠️ Tools Used
 
-- Meta Ads Manager
 - Facebook Business Page
-- Instagram Business Account
 - Google Sites
 - Canva
 - GitHub
+- ChatGpt
 
 ---
 
