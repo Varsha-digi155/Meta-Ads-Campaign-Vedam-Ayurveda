@@ -120,6 +120,7 @@ The repository contains screenshots covering:
 - 7 Ad Asset Setup and Placement Previews
 - 8 Creative Format Distribution
 - 9 Absolute Destination URL Mapping
+- Landing page.jpg
 
 ---
 
