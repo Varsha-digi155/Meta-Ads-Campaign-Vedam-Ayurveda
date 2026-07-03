@@ -81,7 +81,9 @@ The campaign targets:
 The advertisement directs users to a Google Sites landing page containing the Vedam Ayurveda Dosha Skin Guide.
 
 🔗 **Landing Page:**  
+
 https://sites.google.com/view/vedamayurvedain/home
+
 ---
 
 # 📊 Challenges Faced
@@ -99,7 +101,7 @@ These issues were successfully resolved by adjusting campaign settings according
 
 # 📄 Project Report
 
-📥 **View Complete Report**
+ **View Complete Report**
 
 https://drive.google.com/file/d/1ywJ05Ts1l7eotfQd69evB2xoDewiqcCY/view?usp=sharing
 
@@ -118,20 +120,6 @@ The repository contains screenshots covering:
 - 7 Ad Asset Setup and Placement Previews
 - 8 Creative Format Distribution
 - 9 Absolute Destination URL Mapping
-
----
-
-# 📁 Repository Structure
-
-```
-📦 Meta-Ads-Campaign-Vedam-Ayurveda
-│
-├── README.md
-├── Meta Ads Campaign Report.pdf
-├── Screenshots/
-├── Assets/
-└── Landing Page/
-```
 
 ---
 
